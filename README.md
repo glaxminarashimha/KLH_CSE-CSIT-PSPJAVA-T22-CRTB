@@ -37,7 +37,7 @@ Course-Registration-Timetable-Builder
 ```
 > git init
 > git add .
-> git commit -m "Initial commit - Phase 1: project setup and README"
+> git commit -m 
 > git branch -M main
 > git remote add origin <repository-url>
 > git push -u origin main
